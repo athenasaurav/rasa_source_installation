@@ -104,7 +104,7 @@ also be asked to sign a
 
 ## Development Internals
 
-The detailed video description can be found [here](https://youtu.be/OX1bxulRoHY)
+The detailed video description can be found [here](https://youtu.be/Van3HmaHhys)
 
 ### Installing Python
 
